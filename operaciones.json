@@ -1,0 +1,256 @@
+[
+  {
+    "tipo": "ascendente",
+    "resultado": [],
+    "fecha": "2024-09-17T21:26:24.143Z"
+  },
+  {
+    "tipo": "ascendente",
+    "resultado": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "fecha": "2024-09-17T21:26:28.048Z"
+  },
+  {
+    "tipo": "descendente",
+    "resultado": [
+      6,
+      5,
+      4,
+      3,
+      2,
+      1
+    ],
+    "fecha": "2024-09-17T21:26:29.300Z"
+  },
+  {
+    "tipo": "ecuacion",
+    "resultado": 8,
+    "fecha": "2024-09-17T21:26:30.322Z"
+  },
+  {
+    "tipo": "ascendente",
+    "resultado": [
+      12,
+      18,
+      27
+    ],
+    "fecha": "2024-09-17T21:35:39.956Z"
+  },
+  {
+    "tipo": "descendente",
+    "resultado": [
+      27,
+      18,
+      12
+    ],
+    "fecha": "2024-09-17T21:35:53.433Z"
+  },
+  {
+    "tipo": "descendente",
+    "resultado": [
+      72,
+      64,
+      27,
+      18,
+      12
+    ],
+    "fecha": "2024-09-17T21:35:59.531Z"
+  },
+  {
+    "tipo": "ecuacion",
+    "resultado": 1130,
+    "fecha": "2024-09-17T21:36:19.437Z"
+  },
+  {
+    "tipo": "ecuacion",
+    "resultado": 294,
+    "fecha": "2024-09-17T21:37:44.617Z"
+  },
+  {
+    "tipo": "ecuacion",
+    "resultado": 3240,
+    "fecha": "2024-09-18T00:43:04.398Z"
+  },
+  {
+    "tipo": "descendente",
+    "resultado": [
+      90,
+      72,
+      64,
+      27,
+      18,
+      12
+    ],
+    "fecha": "2024-09-18T00:43:12.201Z"
+  },
+  {
+    "tipo": "ascendente",
+    "resultado": [
+      9,
+      16,
+      27
+    ],
+    "fecha": "2024-09-18T02:54:00.212Z"
+  },
+  {
+    "tipo": "descendente",
+    "resultado": [
+      27,
+      16,
+      9
+    ],
+    "fecha": "2024-09-18T02:54:01.609Z"
+  },
+  {
+    "tipo": "ascendente",
+    "resultado": [
+      9,
+      16,
+      27
+    ],
+    "fecha": "2024-09-18T02:54:56.803Z"
+  },
+  {
+    "tipo": "descendente",
+    "resultado": [
+      27,
+      16,
+      9
+    ],
+    "fecha": "2024-09-18T02:54:57.634Z"
+  },
+  {
+    "tipo": "descendente",
+    "resultado": [
+      25,
+      16,
+      9
+    ],
+    "fecha": "2024-09-18T02:55:03.884Z"
+  },
+  {
+    "tipo": "ascendente",
+    "resultado": [
+      9,
+      16,
+      25
+    ],
+    "fecha": "2024-09-18T02:55:05.123Z"
+  },
+  {
+    "tipo": "ecuacion",
+    "resultado": 9,
+    "fecha": "2024-09-18T02:55:07.123Z"
+  },
+  {
+    "tipo": "ecuacion",
+    "resultado": 288,
+    "fecha": "2024-09-18T02:58:09.822Z"
+  },
+  {
+    "tipo": "ecuacion",
+    "resultado": 8,
+    "fecha": "2024-09-18T02:58:14.199Z"
+  },
+  {
+    "tipo": "ecuacion",
+    "resultado": -15,
+    "fecha": "2024-09-18T03:16:14.368Z"
+  },
+  {
+    "tipo": "ecuacion",
+    "resultado": 13,
+    "fecha": "2024-09-18T03:16:26.286Z"
+  },
+  {
+    "tipo": "ascendente",
+    "resultado": [
+      -4,
+      -3,
+      -2,
+      3,
+      5
+    ],
+    "fecha": "2024-09-30T21:30:49.293Z"
+  },
+  {
+    "tipo": "descendente",
+    "resultado": [
+      5,
+      3,
+      -2,
+      -3,
+      -4
+    ],
+    "fecha": "2024-09-30T21:30:50.048Z"
+  },
+  {
+    "tipo": "descendente",
+    "resultado": [
+      5,
+      3,
+      0,
+      -2,
+      -3,
+      -4
+    ],
+    "fecha": "2024-09-30T21:30:53.261Z"
+  },
+  {
+    "tipo": "ecuacion",
+    "resultado": 19,
+    "fecha": "2024-09-30T21:30:58.684Z"
+  },
+  {
+    "tipo": "ecuacion",
+    "resultado": 10,
+    "fecha": "2024-09-30T21:31:04.163Z"
+  },
+  {
+    "tipo": "ecuacion",
+    "resultado": 1.11,
+    "fecha": "2024-09-30T21:32:01.806Z"
+  },
+  {
+    "tipo": "ascendente",
+    "resultado": [
+      -6,
+      4
+    ],
+    "fecha": "2024-10-07T17:21:16.732Z"
+  },
+  {
+    "tipo": "descendente",
+    "resultado": [
+      4,
+      -6
+    ],
+    "fecha": "2024-10-07T17:21:17.609Z"
+  },
+  {
+    "tipo": "ecuacion",
+    "resultado": "Error en la ecuación: Invalid or unexpected token",
+    "fecha": "2024-10-07T17:21:23.607Z"
+  },
+  {
+    "tipo": "ecuacion",
+    "resultado": "Error en la ecuación: Invalid or unexpected token",
+    "fecha": "2024-10-07T17:21:26.643Z"
+  },
+  {
+    "tipo": "ecuacion",
+    "resultado": "Error en la ecuación: Invalid or unexpected token",
+    "fecha": "2024-10-07T17:21:30.759Z"
+  },
+  {
+    "tipo": "ecuacion",
+    "resultado": -24,
+    "fecha": "2024-10-07T17:21:39.793Z"
+  }
+]
